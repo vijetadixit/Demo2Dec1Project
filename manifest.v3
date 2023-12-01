@@ -7,14 +7,18 @@
   <null name="startup_services"/>
   <null name="shutdown_services"/>
   <null name="replication_services"/>
-  <null name="requires"/>
+  <record name="requires" javaclass="com.wm.util.Values">
+    <value name="SIQA_OriginTest_OnPremAssets">1.0</value>
+  </record>
   <null name="listACL"/>
   <value name="webappLoad">yes</value>
   <value name="reloadWithDependentPackage">yes</value>
-  <value name="build">2</value>
+  <value name="build">3</value>
   <null name="description"/>
   <value name="created_date">01-12-2023 06:49:43 GMT</value>
   <null name="extendedProperties"/>
   <value name="isProjectPackage">true</value>
-  <value name="lastUpdated">2023-12-01T06:49:44.925769254Z</value>
+  <value name="lastUpdated">2023-12-01T06:54:05.894975367Z</value>
+  <value name="wmProjectId">flf93c98b494e6a1278476f6</value>
+  <value name="creator">stageTest stageTest</value>
 </Values>
