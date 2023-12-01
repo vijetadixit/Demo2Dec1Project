@@ -1,0 +1,9 @@
+version: "1.0"
+info:
+  model: int-scaffold
+packages:
+- name: Demo2Dec1Project
+  gitServerName: DemoDec1
+  gitUrl: https://github.com/vijetadixit/Demo2Dec1Project
+  gitUsername: vijetadixit
+  gitBranch: main
